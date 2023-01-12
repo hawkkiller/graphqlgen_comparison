@@ -1,0 +1,8001 @@
+query hello0() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello1() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello2() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello3() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello4() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello5() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello6() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello7() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello8() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello9() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello10() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello11() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello12() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello13() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello14() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello15() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello16() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello17() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello18() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello19() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello20() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello21() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello22() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello23() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello24() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello25() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello26() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello27() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello28() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello29() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello30() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello31() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello32() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello33() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello34() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello35() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello36() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello37() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello38() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello39() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello40() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello41() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello42() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello43() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello44() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello45() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello46() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello47() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello48() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello49() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello50() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello51() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello52() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello53() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello54() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello55() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello56() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello57() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello58() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello59() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello60() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello61() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello62() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello63() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello64() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello65() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello66() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello67() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello68() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello69() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello70() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello71() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello72() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello73() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello74() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello75() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello76() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello77() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello78() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello79() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello80() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello81() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello82() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello83() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello84() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello85() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello86() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello87() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello88() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello89() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello90() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello91() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello92() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello93() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello94() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello95() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello96() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello97() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello98() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello99() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello100() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello101() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello102() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello103() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello104() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello105() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello106() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello107() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello108() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello109() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello110() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello111() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello112() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello113() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello114() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello115() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello116() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello117() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello118() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello119() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello120() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello121() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello122() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello123() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello124() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello125() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello126() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello127() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello128() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello129() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello130() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello131() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello132() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello133() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello134() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello135() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello136() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello137() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello138() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello139() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello140() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello141() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello142() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello143() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello144() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello145() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello146() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello147() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello148() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello149() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello150() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello151() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello152() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello153() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello154() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello155() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello156() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello157() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello158() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello159() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello160() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello161() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello162() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello163() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello164() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello165() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello166() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello167() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello168() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello169() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello170() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello171() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello172() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello173() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello174() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello175() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello176() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello177() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello178() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello179() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello180() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello181() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello182() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello183() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello184() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello185() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello186() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello187() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello188() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello189() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello190() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello191() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello192() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello193() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello194() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello195() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello196() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello197() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello198() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello199() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello200() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello201() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello202() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello203() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello204() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello205() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello206() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello207() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello208() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello209() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello210() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello211() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello212() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello213() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello214() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello215() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello216() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello217() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello218() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello219() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello220() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello221() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello222() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello223() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello224() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello225() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello226() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello227() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello228() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello229() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello230() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello231() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello232() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello233() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello234() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello235() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello236() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello237() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello238() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello239() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello240() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello241() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello242() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello243() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello244() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello245() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello246() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello247() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello248() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello249() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello250() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello251() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello252() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello253() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello254() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello255() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello256() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello257() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello258() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello259() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello260() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello261() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello262() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello263() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello264() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello265() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello266() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello267() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello268() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello269() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello270() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello271() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello272() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello273() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello274() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello275() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello276() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello277() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello278() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello279() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello280() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello281() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello282() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello283() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello284() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello285() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello286() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello287() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello288() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello289() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello290() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello291() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello292() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello293() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello294() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello295() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello296() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello297() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello298() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello299() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello300() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello301() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello302() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello303() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello304() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello305() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello306() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello307() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello308() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello309() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello310() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello311() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello312() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello313() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello314() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello315() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello316() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello317() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello318() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello319() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello320() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello321() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello322() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello323() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello324() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello325() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello326() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello327() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello328() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello329() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello330() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello331() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello332() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello333() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello334() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello335() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello336() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello337() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello338() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello339() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello340() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello341() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello342() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello343() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello344() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello345() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello346() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello347() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello348() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello349() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello350() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello351() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello352() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello353() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello354() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello355() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello356() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello357() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello358() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello359() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello360() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello361() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello362() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello363() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello364() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello365() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello366() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello367() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello368() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello369() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello370() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello371() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello372() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello373() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello374() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello375() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello376() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello377() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello378() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello379() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello380() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello381() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello382() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello383() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello384() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello385() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello386() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello387() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello388() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello389() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello390() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello391() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello392() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello393() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello394() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello395() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello396() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello397() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello398() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello399() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello400() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello401() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello402() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello403() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello404() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello405() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello406() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello407() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello408() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello409() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello410() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello411() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello412() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello413() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello414() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello415() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello416() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello417() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello418() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello419() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello420() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello421() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello422() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello423() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello424() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello425() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello426() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello427() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello428() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello429() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello430() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello431() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello432() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello433() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello434() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello435() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello436() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello437() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello438() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello439() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello440() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello441() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello442() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello443() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello444() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello445() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello446() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello447() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello448() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello449() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello450() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello451() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello452() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello453() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello454() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello455() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello456() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello457() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello458() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello459() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello460() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello461() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello462() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello463() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello464() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello465() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello466() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello467() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello468() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello469() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello470() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello471() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello472() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello473() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello474() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello475() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello476() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello477() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello478() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello479() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello480() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello481() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello482() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello483() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello484() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello485() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello486() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello487() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello488() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello489() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello490() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello491() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello492() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello493() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello494() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello495() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello496() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello497() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello498() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    query hello499() {
+  launchesPast(limit: 10) {
+    mission_name
+    launch_date_local
+    launch_site {
+      site_name_long
+    }
+    links {
+      article_link
+      video_link
+    }
+    rocket {
+      rocket_name
+    }
+  }
+}
+    

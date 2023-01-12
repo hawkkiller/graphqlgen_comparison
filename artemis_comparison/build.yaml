@@ -1,0 +1,13 @@
+targets:
+  $default:
+    builders:
+      artemis:
+        options:
+          schema_mapping:
+            - output: lib/query_generated.dart
+              schema: lib/schema.graphql
+              queries_glob: lib/query.graphql
+          scalar_mapping:
+            - custom_parser_import: "package:graphbrainz_example/coercers.dart"
+              graphql_type: Date
+              dart_type: DateTime

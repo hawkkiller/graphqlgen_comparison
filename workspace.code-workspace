@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "ferry_comparison",
+      "name": "ferry"
+    },
+    {
+      "path": "artemis_comparison",
+      "name": "artemis"
+    },
+    {
+      "path": "../graphql_comparison",
+      "name": "root"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "ferry_comparison/": true,
+      "artemis_comparison/": true
+    }
+  }
+}
